@@ -1,0 +1,7 @@
+D:\Фокша\repos24.12\таск 1\bin\Debug\таск 1.exe.config
+D:\Фокша\repos24.12\таск 1\bin\Debug\таск 1.exe
+D:\Фокша\repos24.12\таск 1\bin\Debug\таск 1.pdb
+D:\Фокша\repos24.12\таск 1\obj\Debug\таск 1.csproj.AssemblyReference.cache
+D:\Фокша\repos24.12\таск 1\obj\Debug\таск 1.csproj.CoreCompileInputs.cache
+D:\Фокша\repos24.12\таск 1\obj\Debug\таск 1.exe
+D:\Фокша\repos24.12\таск 1\obj\Debug\таск 1.pdb
