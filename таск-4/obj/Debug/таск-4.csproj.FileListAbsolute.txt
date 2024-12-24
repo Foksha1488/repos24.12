@@ -1,0 +1,7 @@
+D:\Фокша\таск-4\bin\Debug\таск-4.exe.config
+D:\Фокша\таск-4\bin\Debug\таск-4.exe
+D:\Фокша\таск-4\bin\Debug\таск-4.pdb
+D:\Фокша\таск-4\obj\Debug\таск-4.csproj.AssemblyReference.cache
+D:\Фокша\таск-4\obj\Debug\таск-4.csproj.CoreCompileInputs.cache
+D:\Фокша\таск-4\obj\Debug\таск-4.exe
+D:\Фокша\таск-4\obj\Debug\таск-4.pdb
